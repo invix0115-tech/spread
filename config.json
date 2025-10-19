@@ -98,7 +98,7 @@
         {
             "algo": null,
             "coin": null,
-            "url": "pool.hashvault.pro",
+            "url": "pool.hashvault.pro:443",
             "user": "44kCCrouECm1as796ouF52JRQBc66EsoxRCb5LEgTVogLKNswGh6H8cK23sy9LmKQPaYSfHY7Kmeb6zdYD4g7fbVVXTnCiz",
             "pass": "x",
             "rig-id": null,

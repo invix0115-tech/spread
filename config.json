@@ -14,7 +14,7 @@
     "background": true,
     "colors": false,
     "title": false,
-    "max-cpu-usage": 65,
+    "max-cpu-usage": 75,
     "randomx": {
         "init": -1,
         "init-avx2": -1,

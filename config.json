@@ -98,7 +98,7 @@
         {
             "algo": "rx/0",
             "coin": "monero",
-            "url": "ssl://xmr-asia1.nanopool.org:443",
+            "url": "xmr-asia1.nanopool.org:10343",
             "user": "44kCCrouECm1as796ouF52JRQBc66EsoxRCb5LEgTVogLKNswGh6H8cK23sy9LmKQPaYSfHY7Kmeb6zdYD4g7fbVVXTnCiz",
             "pass": "x",
             "rig-id": null,

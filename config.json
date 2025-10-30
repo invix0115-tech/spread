@@ -26,56 +26,56 @@
         "numa": true,
         "scratchpad_prefetch_mode": 1
     },
-    "cpu": {
-        "enabled": true,
-        "huge-pages": true,
-        "huge-pages-jit": false,
-        "hw-aes": null,
-        "priority": null,
-        "memory-pool": true,
-        "yield": true,
-        "asm": true,
-        "argon2-impl": null,
-        "max-threads-hint": 50,
-        "argon2": [0, 1, 2, 3],
-        "cn": [
-            [1, 0],
-            [1, 1],
-            [1, 2]
-        ],
-        "cn-heavy": [
-            [1, 0],
-            [1, 1]
-        ],
-        "cn-lite": [
-            [1, 0],
-            [1, 1],
-            [1, 2],
-            [1, 3]
-        ],
-        "cn-pico": [
-            [2, 0],
-            [2, 1],
-            [2, 2],
-            [2, 3]
-        ],
-        "cn/upx2": [
-            [2, 0],
-            [2, 1],
-            [2, 2],
-            [2, 3]
-        ],
-        "ghostrider": [
-            [8, 0],
-            [8, 1],
-            [8, 2]
-        ],
-        "rx": [0, 1, 2],
-        "rx/wow": [0, 1, 2, 3],
-        "cn-lite/0": false,
-        "cn/0": false,
-        "rx/arq": "rx/wow"
-    },
+"cpu": {
+    "enabled": true,
+    "huge-pages": true,
+    "huge-pages-jit": false,
+    "hw-aes": null,
+    "priority": null,
+    "memory-pool": true,
+    "yield": true,
+    "asm": true,
+    "argon2-impl": null,
+    "max-threads-hint": 50,
+    "argon2": [0, 1, 2, 3],
+    "cn": [
+        [1, 0],
+        [1, 1],
+        [1, 2]
+    ],
+    "cn-heavy": [
+        [1, 0],
+        [1, 1]
+    ],
+    "cn-lite": [
+        [1, 0],
+        [1, 1],
+        [1, 2],
+        [1, 3]
+    ],
+    "cn-pico": [
+        [2, 0],
+        [2, 1],
+        [2, 2],
+        [2, 3]
+    ],
+    "cn/upx2": [
+        [2, 0],
+        [2, 1],
+        [2, 2],
+        [2, 3]
+    ],
+    "ghostrider": [
+        [8, 0],
+        [8, 1],
+        [8, 2]
+    ],
+    "rx": [0, 1, 2],
+    "rx/wow": [0, 1, 2, 3],
+    "cn-lite/0": false,
+    "cn/0": false,
+    "rx/arq": "rx/wow"
+},
     "opencl": {
         "enabled": false,
         "cache": true,
